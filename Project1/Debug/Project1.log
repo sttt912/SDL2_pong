@@ -1,0 +1,5 @@
+﻿  ball.cpp
+c:\users\владимир\desktop\pong — копия\project1\project1\ball.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\владимир\desktop\pong — копия\project1\project1\ball.cpp(52): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владимир\desktop\pong — копия\project1\project1\ball.cpp(53): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\Владимир\Desktop\pong — копия\Project1\Debug\Project1.exe
